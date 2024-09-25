@@ -1,0 +1,7 @@
+To activate this environment, use
+#
+#     $ conda activate /Users/gowthambujju/Documents/Gowtham_pro/AI_projects/EduChat_Enhancing_grade_12_Learning_with_RAG_and_LLM/venv
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
