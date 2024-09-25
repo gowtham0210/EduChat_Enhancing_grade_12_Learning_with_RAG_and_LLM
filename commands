@@ -5,3 +5,7 @@ To activate this environment, use
 # To deactivate an active environment, use
 #
 #     $ conda deactivate
+
+If any library didnt work 
+try to work with this command
+python -m pip install --user langchain
